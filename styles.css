@@ -54,6 +54,8 @@
     padding: 10px;
     text-align: center;
     color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.85em;
   }
 
   .menu-button {
