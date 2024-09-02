@@ -61,10 +61,17 @@ function Articles() {
                             <h3>{item.title}</h3>
                             <h4>Introduction</h4>
                             <p>{item.introduction}</p>
+                            <button>Read article</button>
+                            <br/><br/><br/>
                         </Link>
                     </div>
                 ))}
             </div>
+            <p className="articlesBrowserInfo">{currentIndex + 1 === articles.length
+                                                ? currentIndex + 1 + ' of ' + articles.length 
+                                                : currentIndex + 1 + '-' + Math.min(currentIndex + ITEMS_PER_PAGE, articles.length) + ' of ' + articles.length
+                                                }
+            </p>
             <div className="pagination-buttons">
                 <button onClick={goToFirst} disabled={currentIndex === 0}><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#5f6368"><path d="M440-240 200-480l240-240 56 56-183 184 183 184-56 56Zm264 0L464-480l240-240 56 56-183 184 183 184-56 56Z"/></svg></button>
                 <button onClick={goToPrev} disabled={currentIndex === 0}><svg xmlns="http://www.w3.org/2000/svg" height="18px" viewBox="0 -960 960 960" width="24px" fill="#5f6368"><path d="M400-80 0-480l400-400 71 71-329 329 329 329-71 71Z"/></svg></button>
