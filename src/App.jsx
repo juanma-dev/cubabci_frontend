@@ -9,9 +9,11 @@ import ArticlesEN from './en/Articles.jsx';
 import Article1 from './articles/Article1.jsx';
 import Article2 from './articles/Article2.jsx';
 import Article3 from './articles/Article3.jsx';
+import Article4 from './articles/Article4.jsx';
 import Article1EN from './en/articles/Article1.jsx';
 import Article2EN from './en/articles/Article2.jsx';
 import Article3EN from './en/articles/Article3.jsx';
+import Article4EN from './en/articles/Article4.jsx';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -28,9 +30,11 @@ function App() {
         <Route path="/articles/1" element={<Article1 />} />
         <Route path="/articles/2" element={<Article2 />} />
         <Route path="/articles/3" element={<Article3 />} />
+        <Route path="/articles/4" element={<Article4 />} />
         <Route path="/articles/1/en" element={<Article1EN />} />
         <Route path="/articles/2/en" element={<Article2EN />} />
         <Route path="/articles/3/en" element={<Article3EN />} />
+        <Route path="/articles/4/en" element={<Article4EN />} />
       </Routes>
     </>
   )

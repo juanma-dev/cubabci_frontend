@@ -18,6 +18,11 @@ const articles = [
         title: "The Shamelessness of Hate: The People's Response to Oppression in Cuba and Venezuela",
         introduction: 'Cuba and Venezuela, two nations marked by decades of authoritarian regimes, have developed a system of social control based on hate and shamelessness. These tactics, aimed at dividing and oppressing the population, have created an environment where truth, justice, and decency are constantly under threat. In this context, the people face the difficult task of resisting without succumbing to complicity with the oppressive system, while also considering that only an external military intervention or a well-coordinated internal organization may bring about real change.',
         index: 3
+    },
+    {
+        title: "The Word of God Against Tyranny and Hatred in Cuba and Venezuela",
+        introduction: 'In times of oppression and dictatorship, as experienced in Cuba and Venezuela, where the government has instituted a law of shamelessness and embraced hatred, the people face profound darkness. These regimes not only seek to physically control and subjugate the population but also attempt to destroy their spirit and crush any hope for freedom. Amid such adverse circumstances, the Word of God stands as an inexhaustible source of hope, courage, and resistance.',
+        index: 4
     }
 ];
 

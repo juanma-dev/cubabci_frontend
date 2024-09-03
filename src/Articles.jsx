@@ -18,6 +18,11 @@ const articles = [
         title: 'El Descaro del Odio: La Respuesta del Pueblo Ante la Opresión en Cuba y Venezuela',
         introduction: 'Cuba y Venezuela, dos naciones marcadas por décadas de regímenes autoritarios, han desarrollado un sistema de control social basado en el odio y el descaro. Estas tácticas, que buscan dividir y oprimir a la población, han creado un entorno en el que la verdad, la justicia y la decencia se ven constantemente amenazadas. En este contexto, el pueblo se enfrenta a la difícil tarea de resistir sin sucumbir a la complicidad con el sistema opresor, mientras contempla la posibilidad de que solo una intervención militar externa o una organización interna bien coordinada puedan traer un cambio real.',
         index: 3
+    },
+    {
+        title: 'La Palabra de Dios contra la tiranía y el odio en Cuba y Venezuela',
+        introduction: 'En tiempos de opresión y dictadura, como los vividos en Cuba y Venezuela, donde el gobierno ha instituido la ley del descaro y ha adoptado el odio, los pueblos enfrentan una profunda oscuridad. Estos regímenes no solo buscan controlar y someter físicamente a la población, sino que también intentan destruir su espíritu y aplastar cualquier esperanza de libertad. En medio de estas circunstancias tan adversas, la Palabra de Dios se alza como una fuente inagotable de esperanza, coraje y resistencia.',
+        index: 4
     }
 ];
 
