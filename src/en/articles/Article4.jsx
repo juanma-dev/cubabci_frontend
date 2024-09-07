@@ -142,7 +142,7 @@ function Article4() {
 
                     In contexts of repression, such as those in Cuba and Venezuela, solidarity among believers is not only a spiritual duty but a practical necessity. The Apostle Paul exhorts in Galatians 6:2: "Bear one another's burdens, and so fulfill the law of Christ." This means that Christians must be willing to support their brothers and sisters in faith, whether with material resources, spiritual counsel, or simply with their presence and prayer.<br /><br />
 
-                    In practice, this can mean organizing support networks for those who are persecuted, praying together in secret, or sharing resources with those most in need. The church can become a place of refuge and hope, where believers strengthen each other and prepare to face adversity with courage and faith.<br /><br />
+                    In practice, this can mean organizing support networks for those who are persecuted, praying together, or sharing resources with those most in need. The church can become a place of refuge and hope, where believers strengthen each other and prepare to face adversity with courage and faith.<br /><br />
 
                     Furthermore, unity and solidarity not only benefit believers but can also inspire others in society to join the pursuit of justice and freedom. A united and active church can be a beacon of hope for the entire community, showing that oppression and injustice do not have the final word.<br /><br />
 

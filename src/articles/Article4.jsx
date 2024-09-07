@@ -142,7 +142,7 @@ function Article4() {
 
                     En contextos de represión, como los que se viven en Cuba y Venezuela, la solidaridad entre los creyentes no es solo un deber espiritual, sino una necesidad práctica. El apóstol Pablo exhorta en Gálatas 6:2: "Sobrellevad los unos las cargas de los otros, y cumplid así la ley de Cristo". Esto implica que los cristianos deben estar dispuestos a apoyar a sus hermanos en la fe, ya sea con recursos materiales, consejo espiritual, o simplemente con su presencia y oración.<br /><br />
 
-                    En la práctica, esto puede significar organizar redes de apoyo para aquellos que son perseguidos, orar juntos en secreto, o compartir recursos con los más necesitados. La iglesia puede convertirse en un lugar de refugio y esperanza, donde los creyentes se fortalecen unos a otros y se preparan para enfrentar la adversidad con coraje y fe.<br /><br />
+                    En la práctica, esto puede significar organizar redes de apoyo para aquellos que son perseguidos, orar juntos, o compartir recursos con los más necesitados. La iglesia puede convertirse en un lugar de refugio y esperanza, donde los creyentes se fortalecen unos a otros y se preparan para enfrentar la adversidad con coraje y fe.<br /><br />
 
                     Además, la unidad y la solidaridad no solo benefician a los creyentes, sino que también pueden inspirar a otros en la sociedad a unirse en la búsqueda de la justicia y la libertad. Una iglesia unida y activa puede ser un faro de esperanza para toda la comunidad, mostrando que la opresión y la injusticia no tienen la última palabra.<br /><br />
 
